@@ -1,0 +1,12 @@
+D:\Software development\.NET CSharp\Modul 1\Termin09\resenje biblioteka\Biblioteka\Biblioteka\bin\Debug\Biblioteka.exe.config
+D:\Software development\.NET CSharp\Modul 1\Termin09\resenje biblioteka\Biblioteka\Biblioteka\bin\Debug\Biblioteka.exe
+D:\Software development\.NET CSharp\Modul 1\Termin09\resenje biblioteka\Biblioteka\Biblioteka\bin\Debug\Biblioteka.pdb
+D:\Software development\.NET CSharp\Modul 1\Termin09\resenje biblioteka\Biblioteka\Biblioteka\obj\Debug\Biblioteka.csprojAssemblyReference.cache
+D:\Software development\.NET CSharp\Modul 1\Termin09\resenje biblioteka\Biblioteka\Biblioteka\obj\Debug\Biblioteka.exe
+D:\Software development\.NET CSharp\Modul 1\Termin09\resenje biblioteka\Biblioteka\Biblioteka\obj\Debug\Biblioteka.pdb
+D:\Software development\C Sharp Practice\Termin9Biblioteka\Biblioteka\bin\Debug\Biblioteka.exe.config
+D:\Software development\C Sharp Practice\Termin9Biblioteka\Biblioteka\bin\Debug\Biblioteka.exe
+D:\Software development\C Sharp Practice\Termin9Biblioteka\Biblioteka\bin\Debug\Biblioteka.pdb
+D:\Software development\C Sharp Practice\Termin9Biblioteka\Biblioteka\obj\Debug\Biblioteka.csprojAssemblyReference.cache
+D:\Software development\C Sharp Practice\Termin9Biblioteka\Biblioteka\obj\Debug\Biblioteka.exe
+D:\Software development\C Sharp Practice\Termin9Biblioteka\Biblioteka\obj\Debug\Biblioteka.pdb
